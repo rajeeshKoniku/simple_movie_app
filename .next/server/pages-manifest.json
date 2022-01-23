@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/auth/login": "pages/auth/login.html",
+  "/auth/register": "pages/auth/register.html",
+  "/": "pages/index.html",
+  "/movies": "pages/movies.html",
+  "/movies/[id]/detail": "pages/movies/[id]/detail.html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}
